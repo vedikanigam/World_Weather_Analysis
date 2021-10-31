@@ -1,1 +1,3 @@
 # World_Weather_Analysis
+
+In this project we will first retrieve around 700 nearest cities by generating 2000 random latitudes and longitudes. By performing an API call with the OpenWeatherMap, we will gather weather data for these cities. Next, based on customer weather preferences we will identify potential travel destinations and nearby hotels out of the around 700 cities. These destinations are marked on a marker layer map with pop-up markers. Finally, using Google Directions API we will create a travel itinerary that shows the route between four cities chosen from customer's possible travel destinations. 
