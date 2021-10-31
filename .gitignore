@@ -2,6 +2,9 @@
 config.py
 #Adding additionall files.
 API_practice.ipynb
+VacationPy.ipynb
+WeatherPy.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
